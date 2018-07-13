@@ -1,0 +1,7 @@
+C2 server using social media
+Twitter
+Actions:
+	DDOS - demonstrated using simple ping
+	Add a client to the client list
+	Scan an IP using nmap
+
